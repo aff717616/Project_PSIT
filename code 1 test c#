@@ -1,0 +1,14 @@
+// #C Hello Word program 
+using System;
+
+namespace Hello
+{
+    class Program
+    {
+        static void Main()
+        {
+            // print text to the screen
+            Console.WriteLine(">>>Hello My name is Krittin Chuaylamae<<<!");
+        }
+    }
+}
