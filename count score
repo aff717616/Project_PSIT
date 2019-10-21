@@ -1,0 +1,5 @@
+void Start () {
+    rb = GetComponet<Rigidbody>0;
+    count = 0;
+    countText.text = "Score :"+count.Tostring();
+}
